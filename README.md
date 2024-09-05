@@ -1,5 +1,5 @@
 # Study_Mediation_SES_Strokeoutcome_2023
-Code to perform the analyses in "Mediation analyses of the mechanisms by which socioeconomic status, comorbidity, stroke severity, and acute care influence stroke outcome"
+Code to perform the analyses in Lindmark, A., Eriksson, M., & Darehed, D. (2023). Mediation analyses of the mechanisms by which socioeconomic status, comorbidity, stroke severity, and acute care influence stroke outcome. Neurology, 101(23). https://doi.org/10.1212/WNL.0000000000207939
 
 Contains the following code files:
 - "imputations.R" with the code to perform the multiple imputation of the NIHSS>5 variable
